@@ -1,4 +1,4 @@
-# Dogfight--now four versions
+# Dogfight--now five versions
 based on lovely demo by AJ Campbell, but with a lot more stuff added for those of us with shorter attention spans.
 
 PlayerJet and Enemy AI Jet are based on stock Unity models (uses their flight controls), but... (the following describes 4th version, Dogfight 7; FOLLOWING that are the significant changes made to new Dogfight ManyAI version).
